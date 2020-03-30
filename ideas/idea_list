@@ -10,5 +10,9 @@ https://www.thelancet.com/action/showFullTableHTML?isHtml=true&tableId=tbl1&pii=
 Anne:
 the purpose of MDS
 Difference of metric and non-metric of MDS
-How to choose distance and calculate distance, such as euclidien distance, etc
-
+Explain the data
+How to choose distance and calculate distance, such as euclidean distance, etc
+Choose a method and explain how to it, such as INDSCAL, SINDSCAL, POLYCON, ALSCAL, KYST etc
+MDS plot
+MDS plot interpretation
+Explore and explain inner-cluster distance and inter-cluster distance, using examples
