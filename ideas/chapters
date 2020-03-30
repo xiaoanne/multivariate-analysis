@@ -1,0 +1,14 @@
+NZ data source:
+https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-current-situation/covid-19-current-cases/covid-19-current-cases-details
+
+World data source:
+https://github.com/CSSEGISandData
+
+Patient data source:
+https://www.thelancet.com/action/showFullTableHTML?isHtml=true&tableId=tbl1&pii=S1473-3099%2820%2930200-0
+
+Anne:
+the purpose of MDS
+Difference of metric and non-metric of MDS
+How to choose distance and calculate distance, such as euclidien distance, etc
+
